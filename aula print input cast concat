@@ -1,0 +1,134 @@
+# %%
+a=1
+b=2
+c=a+b
+print(c) #imprime
+
+# %%
+d=4
+
+# %%
+nome='Felipe'
+#lenght
+
+# %%
+nome2='Matheus'
+
+# %%
+decimal1=7.3
+
+# %%
+print(nome)
+
+# %%
+teste1=True
+
+# %%
+
+
+# %% [markdown]
+# Meu nome é Felipe
+
+# %% [markdown]
+# texto
+
+# %%
+#Comentar
+'''
+
+'''
+
+# %%
+a=1
+'''
+Digitar o texto
+'''
+
+# %%
+num1=input("Digite um número")
+print(num1)
+
+# %%
+letra1 ="F"
+letra2="E"
+
+print(letra1+letra2)
+
+
+
+# %%
+nome3='Felipe'
+sobrenome='Casagrande'
+print(nome3+' '+sobrenome)
+
+
+# %%
+nome1 = "Matheus"
+sobrenome1 ="Alexandre"
+print(nome1+" "+sobrenome1)
+
+# %%
+'''
+imprimir a seguinte frase
+Meu pai chama ...
+
+'''
+
+#print("Meu pai chama "+nome..)
+
+nome_pai = "Henry"
+sobrenome_pai = "Go"
+print("Meu pai chama: "+nome_pai+" "+sobrenome_pai)
+
+
+
+
+# %%
+nome_mae = "Silvia"
+sobrenome_mae ="Go"
+print("Minha mae chama: "+nome_mae+" "+sobrenome_mae)
+
+# %%
+irmao1 = "Pedro"
+sobrenome_irmao1 = "Go"
+print("Meu irmao chama: "+irmao1+' '+sobrenome_irmao1)
+
+# %%
+nomef = 'Felipe'
+sobrenomef= 'Casagrande'
+alturaf=1.73 #float .
+pesof= 72
+#quebra de linha
+print("Nome: "+nomef+"\nSobrenome: "+sobrenomef+"\nAltura: "+str(alturaf)+"\nPeso: "+str(pesof))
+
+#lean
+
+
+
+# %%
+nomem="Silvia"
+sobrenomem="Go"
+pesom= 60
+alturam=1.60
+
+print("Nome: "+nomem+"\nSobrenome: "+ sobrenomem+"\nAlturam: "+str(alturam)+"\nPeso: "+str(pesom))
+
+
+# %%
+nomep="Henry"
+sobrenomep = "Go"
+alturap = 1.65
+pesop = 65
+
+print("Nome: "+nomep+"\nSobrenome: "+sobrenomep+"\nAltura: "+str(alturap)+ "\nPeso: "+str(pesop))
+
+# %%
+nomei="Pedro"
+sobrenomei="Go"
+alturai = 1.75
+pesoi = 70
+print("Nome: "+ nomei+"\nSobrenome: "+sobrenomei+"\nPeso :"+str(pesoi)+"\nAltura: "+str(alturai))
+
+# %%
+alturaz=float(input("Digite sua altura: "))
+print("A altura e: "+ str(alturaz))
